@@ -1,0 +1,9 @@
+.add-btn {
+    height: 40px;
+    width: 100px;
+    border: none;
+    background-color: rgb(39, 106, 230);
+    color: white;
+    font-family: 'Roboto';
+    font-size: 16px;
+}

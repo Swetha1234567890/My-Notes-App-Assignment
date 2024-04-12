@@ -1,0 +1,56 @@
+.note-details-container {
+    background-color: #212121;
+    height: 100vh;
+    width: 50%;
+}
+
+.note-details-background {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.note-header {
+    display: flex;
+}
+
+.arr-btn {
+    height: 30px;
+    width: 30px;
+    background-color: transparent;
+}
+
+.save-btn {
+    background-color: #2d39e6;
+    height: 40px;
+    width: 100px;
+    border: none;
+    border-radius: 5px;
+    color: #ffffff;
+    font-family: 'Roboto';
+    font-size: 16px;
+}
+
+.del-btn {
+    background-color: #3f3d3d;
+    height: 40px;
+    width: 40px;
+    color: #ffffff;
+}
+
+.input-title {
+    height: 35px;
+    width: 300px;
+    font-family: 'Roboto';
+    font-size: 20px;
+    color: #fff;
+    background-color: transparent;
+}
+
+.notes {
+    background-color: transparent;
+    font-family: 'Roboto';
+    font-size: 20px;
+    color: #ffffff;
+}
